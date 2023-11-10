@@ -1,0 +1,94 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo1",
+            "request": "launch",
+            "mainClass": "Ejemplo1",
+            "projectName": "Unidad 1 - Ejemplos_8013a647"
+            
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo10",
+            "request": "launch",
+            "mainClass": "Ejemplo10",
+            "projectName": "Unidad 1 - Ejemplos_8013a647",
+            "args": "3 6"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo2",
+            "request": "launch",
+            "mainClass": "Ejemplo2",
+            "projectName": "Unidad 1 - Ejemplos_8013a647"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo3",
+            "request": "launch",
+            "mainClass": "Ejemplo3",
+            "projectName": "Unidad 1 - Ejemplos_8013a647"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo4",
+            "request": "launch",
+            "mainClass": "Ejemplo4",
+            "projectName": "Unidad 1 - Ejemplos_8013a647"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo5",
+            "request": "launch",
+            "mainClass": "Ejemplo5",
+            "projectName": "Unidad 1 - Ejemplos_8013a647"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo6",
+            "request": "launch",
+            "mainClass": "Ejemplo6",
+            "projectName": "Unidad 1 - Ejemplos_8013a647"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo7A",
+            "request": "launch",
+            "mainClass": "Ejemplo7A",
+            "projectName": "Unidad 1 - Ejemplos_8013a647"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo7B",
+            "request": "launch",
+            "mainClass": "Ejemplo7B",
+            "projectName": "Unidad 1 - Ejemplos_8013a647"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo8",
+            "request": "launch",
+            "mainClass": "Ejemplo8",
+            "projectName": "Unidad 1 - Ejemplos_8013a647"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo9",
+            "request": "launch",
+            "mainClass": "Ejemplo9",
+            "projectName": "Unidad 1 - Ejemplos_8013a647"
+        }
+    ]
+}

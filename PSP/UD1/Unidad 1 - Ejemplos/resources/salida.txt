@@ -1,0 +1,27 @@
+Microsoft Windows [Versi�n 10.0.22621.2283]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\miche\Dropbox\Curso 23-34\PSP\1� Evaluaci�n\UD1\Unidad 1 - Ejemplos>mkdir nuevo
+
+C:\Users\miche\Dropbox\Curso 23-34\PSP\1� Evaluaci�n\UD1\Unidad 1 - Ejemplos>cd nuevo
+
+C:\Users\miche\Dropbox\Curso 23-34\PSP\1� Evaluaci�n\UD1\Unidad 1 - Ejemplos\nuevo>echo creamos fichero > mifichero.txt
+
+C:\Users\miche\Dropbox\Curso 23-34\PSP\1� Evaluaci�n\UD1\Unidad 1 - Ejemplos\nuevo>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El n�mero de serie del volumen es: 422E-D100
+
+ Directorio de C:\Users\miche\Dropbox\Curso 23-34\PSP\1� Evaluaci�n\UD1\Unidad 1 - Ejemplos\nuevo
+
+09/09/2023  12:47    <DIR>          .
+02/10/2023  13:59    <DIR>          ..
+02/10/2023  14:12                18 mifichero.txt
+               1 archivos             18 bytes
+               2 dirs  366.847.791.104 bytes libres
+
+C:\Users\miche\Dropbox\Curso 23-34\PSP\1� Evaluaci�n\UD1\Unidad 1 - Ejemplos\nuevo>dirrr
+
+C:\Users\miche\Dropbox\Curso 23-34\PSP\1� Evaluaci�n\UD1\Unidad 1 - Ejemplos\nuevo>echo fin comandos
+fin comandos
+
+C:\Users\miche\Dropbox\Curso 23-34\PSP\1� Evaluaci�n\UD1\Unidad 1 - Ejemplos\nuevo>
