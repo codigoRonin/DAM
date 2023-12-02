@@ -1,0 +1,9 @@
+______________
+||   NEW USER  ||
+---------------
+
+Name: Michel
+Surname: Cuartero
+Birth date: 1975
+---------------
+
