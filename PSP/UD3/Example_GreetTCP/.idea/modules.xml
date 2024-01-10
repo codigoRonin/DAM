@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Example_GreetTCP.iml" filepath="$PROJECT_DIR$/.idea/Example_GreetTCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example_Greet_Client/Example_Greet_Client.iml" filepath="$PROJECT_DIR$/Example_Greet_Client/Example_Greet_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example_Greet_Server/Example_Greet_Server.iml" filepath="$PROJECT_DIR$/Example_Greet_Server/Example_Greet_Server.iml" />
+    </modules>
+  </component>
+</project>
