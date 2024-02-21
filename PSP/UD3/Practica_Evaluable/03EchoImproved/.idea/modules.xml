@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/03EchoImproved.iml" filepath="$PROJECT_DIR$/.idea/03EchoImproved.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EchoImproved_Client/EchoImproved_Client.iml" filepath="$PROJECT_DIR$/EchoImproved_Client/EchoImproved_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EchoImproved_Server/EchoImproved_Server.iml" filepath="$PROJECT_DIR$/EchoImproved_Server/EchoImproved_Server.iml" />
+    </modules>
+  </component>
+</project>

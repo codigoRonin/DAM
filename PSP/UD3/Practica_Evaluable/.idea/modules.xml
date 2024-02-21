@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05Auction/Auction_Client/Auction_Client.iml" filepath="$PROJECT_DIR$/05Auction/Auction_Client/Auction_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Auction/Auction_Model/Auction_Model.iml" filepath="$PROJECT_DIR$/05Auction/Auction_Model/Auction_Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Auction/Auction_Server/Auction_Server.iml" filepath="$PROJECT_DIR$/05Auction/Auction_Server/Auction_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03EchoImproved/EchoImproved_Client/EchoImproved_Client.iml" filepath="$PROJECT_DIR$/03EchoImproved/EchoImproved_Client/EchoImproved_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03EchoImproved/EchoImproved_Server/EchoImproved_Server.iml" filepath="$PROJECT_DIR$/03EchoImproved/EchoImproved_Server/EchoImproved_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07MulticastChat/MulticastChat/MulticastChat.iml" filepath="$PROJECT_DIR$/07MulticastChat/MulticastChat/MulticastChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06MulticastMessage/MulticastMessage_Client/MulticastMessage_Client.iml" filepath="$PROJECT_DIR$/06MulticastMessage/MulticastMessage_Client/MulticastMessage_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06MulticastMessage/MulticastMessage_Server/MulticastMessage_Server.iml" filepath="$PROJECT_DIR$/06MulticastMessage/MulticastMessage_Server/MulticastMessage_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02UDPDictionary/UDPDictionary_Client/UDPDictionary_Client.iml" filepath="$PROJECT_DIR$/02UDPDictionary/UDPDictionary_Client/UDPDictionary_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02UDPDictionary/UDPDictionary_Server/UDPDictionary_Server.iml" filepath="$PROJECT_DIR$/02UDPDictionary/UDPDictionary_Server/UDPDictionary_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Unidad 3 - Evaluable.iml" filepath="$PROJECT_DIR$/.idea/Unidad 3 - Evaluable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04UserData/UserDataClient/UserDataClient.iml" filepath="$PROJECT_DIR$/04UserData/UserDataClient/UserDataClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04UserData/UserData_Model/UserData_Model.iml" filepath="$PROJECT_DIR$/04UserData/UserData_Model/UserData_Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04UserData/UserData_Server/UserData_Server.iml" filepath="$PROJECT_DIR$/04UserData/UserData_Server/UserData_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01Echo/echo_client/echo_client.iml" filepath="$PROJECT_DIR$/01Echo/echo_client/echo_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01Echo/echo_server/echo_server.iml" filepath="$PROJECT_DIR$/01Echo/echo_server/echo_server.iml" />
+    </modules>
+  </component>
+</project>

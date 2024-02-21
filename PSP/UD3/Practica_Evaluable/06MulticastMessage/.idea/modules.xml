@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/06MulticastMessage.iml" filepath="$PROJECT_DIR$/.idea/06MulticastMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MulticastMessage_Client/MulticastMessage_Client.iml" filepath="$PROJECT_DIR$/MulticastMessage_Client/MulticastMessage_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MulticastMessage_Server/MulticastMessage_Server.iml" filepath="$PROJECT_DIR$/MulticastMessage_Server/MulticastMessage_Server.iml" />
+    </modules>
+  </component>
+</project>
